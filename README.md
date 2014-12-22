@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A proclamation of vvarre from the Lord of Hosts. Or Englands warning by Israels ruine shewing the mi
+
+1. TO THE RIGHT HOnourable, and moſt nobly deſcended, CHARLES Lord HOVVARD, Baron of Effingham, Earle of Nottingham, Lord Lieutenant for the County of Surrey, grace be multiplied with encreaſe of honour in this world, & euerlaſting glory in the future world.
+
 #####Body#####
-A proclamation of vvarre from the Lord of Hosts. Or Englands warning by Israels ruine shewing the mi
+
+1. A PROCLAMATION OF WARRE, From the Lord of Hoſts.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
